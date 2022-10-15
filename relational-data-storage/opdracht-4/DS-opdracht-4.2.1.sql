@@ -1,0 +1,1 @@
+SELECT mhl_cities.name, mhl_cities.commune_ID FROM mhl_cities WHERE mhl_cities.commune_ID = 0;
